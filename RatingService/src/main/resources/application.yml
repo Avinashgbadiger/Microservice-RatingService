@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    mongo:
+      host: localhost
+      port: 27017
+      database: microservice
+
+server:
+  port: 8083
