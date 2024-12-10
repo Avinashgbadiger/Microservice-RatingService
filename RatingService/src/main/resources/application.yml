@@ -6,7 +6,7 @@ spring:
 
 
   application:
-    name: RatingService
+    name: Rating-Service
 
 server:
   port: 8083

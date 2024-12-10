@@ -10,7 +10,7 @@
 	</parent>
 
 	<groupId>microservice</groupId>
-	<artifactId>RatingService</artifactId>
+	<artifactId>Rating-Service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>RatingService</name>
 	<description>Microservice - Ratings Service</description>
